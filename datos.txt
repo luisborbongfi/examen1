@@ -1,0 +1,11 @@
+F&Manimoto&01/01/2022&30&01/01/2020&Colombia
+F&Papas BBQ&01/01/2022&30&01/01/2020&Colombia
+R&Leche&01/01/2022&30&01/01/2020&2&10C°
+R&Mayonesa&01/01/2022&30&01/01/2020&2&10C°
+R&Salsa&01/01/2022&30&01/01/2020&2&10C°
+A&Cerdo&01/01/2022&30&01/01/2020&Colombia&8C°&2%N/3%O/4%C20/5%H2O
+A&Tocino&01/01/2022&30&01/01/2020&Colombia&8C°&2%N/3%O/4%C20/5%H2O
+W&Carne&01/01/2022&30&30&01/01/2020&Colombia&14C°&25g/cm
+W&Sobre Barriga&01/01/2022&30&01/01/2020&Colombia&14C°&25g/cm
+N&Pezcado&1/03/2022&1/01/2022&30&Colombia&7C°&Sumercion&30
+	
