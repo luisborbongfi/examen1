@@ -1,0 +1,64 @@
+
+
+Sentencias vistas en clase:
+
+
+rm -rf .git:  Remueve toda la historia y todas las ramas
+
+$ git branch : Listar ramas locales
+
+$ git branch <rama> : Crear rama a partir de la rama en la que estoy
+
+$ git branch <rama_nueva> <rama_existente> : Crear rama a partir de otra 
+
+$ git merge <rama_existente> : Fusiona la rama en la que estoy con otra rama existente 
+
+$ git rebase <rama_existente> : Fusiona la rama en la que estoy con otra rama existente, pero deja una sóla línea de commits
+
+$ git branch -f <rama1>  <rama2> : Mover la rama1 a la rama2
+
+$ git checkout <rama existente>  : Checkear la rama
+
+$ git checkout HEAD^  : Checkear el commit anterior al que estoy
+
+$ git checkout HEAD~n   : Checkear el commit de n posiciones atrás a la que estoy
+
+$ git checkout -b <nueva-rama>  :  Crear nueva rama y checkearla
+
+$ git reset HEAD~n: borra n commits atrás a partir de donde estoy
+
+$ git revert HEAD: crea un commit nuevo igual al anterior sin borrar en el que estoy
+
+$ git remote -v: listar destinos remotos
+
+$ git remote add origin URL: Añadir URL a origin
+
+$ git push -u origin master : Enviar la rama master al repositorio remoto de la url guardada en origin
+
+$ git pull : Mezclar los datos de la rama remota en el repositorio local,
+
+otras sentencias últiles
+
+$ git branch -d <rama> : Borrar rama de forma segura
+
+$ git branch -D <rama> : Forzar eliminación de rama
+
+$ git push origin --delete <rama> : 	Borrar rama remota
+
+$ git push origin :<rama>    : Borrar rama remota
+
+$ git branch -m <rama>   :Renombrar la rama en la que estoy
+
+$ git checkout -b <nueva-rama> <rama existente> :  Crear nueva rama y crearla a partir de otra rama.
+
+$ git remote rename nombre1 nombre2 : cambiar nombre de URL por nombre2
+
+$ git remote rm origin // para remover origin
+
+
+
+
+
+
+
+
